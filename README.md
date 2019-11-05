@@ -14,4 +14,4 @@ Course covers:
 * Auto Documentation using Sphinx
 
 
-<img src="imgs/cc.png" alt="drawing" width="200"/>
+<img src="jupyter/imgs/cc.png" alt="drawing" width="200"/>
